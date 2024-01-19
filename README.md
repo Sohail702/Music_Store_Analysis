@@ -17,4 +17,4 @@ Q7: Who are the most popular artists?<br>
 Q8: Write query to return the email, first name, last name, & Genre of all Rock Music listeners. <br>
 Q9: Return all the track names that have a song length longer than the average song length.<br>
 Q10: Let's invite the artists who have written the most rock music in our dataset.<br> 
-Q11:Find how much amount spent by each customer on artists? Write a query to return customer name, artist name and total spent.<br>
+Q11:Find how much amount spent by each customer on artists? Write a query to return customer name, artist name and total spent?<br>
