@@ -1,12 +1,12 @@
 # Music_Store_Analysis
 This project uses SQL to analyze the dataset of  Music store. The goal of the project is to answer a set of questions about the store's business.
-
-Schema Diagram
+<br>
+Schema Diagram:<br>
 
 <img width="594" alt="schema_diagram" src="https://github.com/Sohail702/Music_Store_Analysis/assets/118183667/85bcd2a4-2412-4efc-8fc3-263f7585ee5e">
-
+<br><br>
 Questions Answered:
-
+<br>
 Q1. Who is the senior most employee based on job title?<br>
 Q2. Which countries have the most Invoices?<br>
 Q3. What are top 3 values of total invoice?<br>
